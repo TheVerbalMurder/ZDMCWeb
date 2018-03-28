@@ -1,3 +1,3 @@
 # ZDMCWeb
 # ZDMCWeb
-Bradisswag is the best owner ever ;)
+Bradisswag is the best ;)
