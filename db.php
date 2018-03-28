@@ -1,6 +1,6 @@
 <?php
 /* Database connection settings */
-$host = 'zerodegree.ddns.net:3306';
+$host = 'zerodegree.ddns.net:25585';
 $user = 'zerodegreeweb';
 $pass = 'ZerooDegr33Web';
 $db = 'accounts';
